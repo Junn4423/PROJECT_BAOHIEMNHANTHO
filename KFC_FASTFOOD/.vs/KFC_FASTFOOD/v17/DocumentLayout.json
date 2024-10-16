@@ -1,0 +1,808 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_extendpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_extendpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_advancedpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_advancedpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\lib\\cls_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:lib\\cls_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_backupdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_backupdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_rprevenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_rprevenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_rprevenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_rprevenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucsytems\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucsytems\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucsytems\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucsytems\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucsytems\\uc_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucsytems\\uc_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucsytems\\uc_noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucsytems\\uc_noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucsytems\\uc_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucsytems\\uc_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_superiorpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_superiorpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_extendpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_extendpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_profilepersonnelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_profilepersonnelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_personnelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_personnelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_officesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_officesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_officemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_officemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_advancedpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_advancedpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_advancedpack.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_advancedpack.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucsytems\\uc_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucsytems\\uc_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucsytems\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucsytems\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucsytems\\uc_personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucsytems\\uc_personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucsytems\\uc_category.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucsytems\\uc_category.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_superiorpack.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_superiorpack.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_superiorpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_superiorpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucfunction\\uc_extendpack.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucfunction\\uc_extendpack.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucsytems\\uc_report.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucsytems\\uc_report.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucsytems\\uc_personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucsytems\\uc_personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\ucsytems\\uc_personnel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:ucsytems\\uc_personnel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_restoredatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_restoredatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_userpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_userpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_printinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_printinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|f:\\study\\nosql\\kfc_fastfood\\forms\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE7324E-F199-4B86-8FEB-AB81003B3054}|KFC_FASTFOOD.csproj|solutionrelative:forms\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cls_Database.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\lib\\cls_Database.cs",
+              "RelativeDocumentMoniker": "lib\\cls_Database.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\lib\\cls_Database.cs",
+              "RelativeToolTip": "lib\\cls_Database.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:30:49.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_ExtendPack.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_ExtendPack.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_ExtendPack.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_ExtendPack.cs [Design]",
+              "RelativeToolTip": "UCFunction\\UC_ExtendPack.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:24:57.485Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_AdvancedPack.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_AdvancedPack.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_AdvancedPack.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_AdvancedPack.cs [Design]",
+              "RelativeToolTip": "UCFunction\\UC_AdvancedPack.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:02:35.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_InvoiceDetails.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_InvoiceDetails.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_InvoiceDetails.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_InvoiceDetails.cs [Design]",
+              "RelativeToolTip": "UCFunction\\UC_InvoiceDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:55:48.178Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_InvoiceDetails.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_InvoiceDetails.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_InvoiceDetails.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_InvoiceDetails.cs",
+              "RelativeToolTip": "UCFunction\\UC_InvoiceDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:29:21.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_BackupDatabase.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_BackupDatabase.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_BackupDatabase.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_BackupDatabase.cs [Design]",
+              "RelativeToolTip": "Forms\\frm_BackupDatabase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:57:25.017Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_Main.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Main.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_Main.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Main.cs [Design]",
+              "RelativeToolTip": "Forms\\frm_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:50:57.134Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_Login.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Login.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_Login.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Login.cs [Design]",
+              "RelativeToolTip": "Forms\\frm_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:28:29.975Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_RpRevenue.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_RpRevenue.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_RpRevenue.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_RpRevenue.cs",
+              "RelativeToolTip": "UCFunction\\UC_RpRevenue.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:27:13.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_RpRevenue.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_RpRevenue.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_RpRevenue.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_RpRevenue.cs [Design]",
+              "RelativeToolTip": "UCFunction\\UC_RpRevenue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:59:22.843Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UC_System.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_System.cs",
+              "RelativeDocumentMoniker": "UCSytems\\UC_System.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_System.cs [Design]",
+              "RelativeToolTip": "UCSytems\\UC_System.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:30:15.388Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_Report.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Report.cs",
+              "RelativeDocumentMoniker": "UCSytems\\UC_Report.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Report.cs",
+              "RelativeToolTip": "UCSytems\\UC_Report.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA9wBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:50:35.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_Report.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Report.cs",
+              "RelativeDocumentMoniker": "UCSytems\\UC_Report.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Report.cs [Design]",
+              "RelativeToolTip": "UCSytems\\UC_Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:30:01.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UC_Noti.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Noti.cs",
+              "RelativeDocumentMoniker": "UCSytems\\UC_Noti.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Noti.cs [Design]",
+              "RelativeToolTip": "UCSytems\\UC_Noti.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:00:37.957Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UC_Category.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Category.cs",
+              "RelativeDocumentMoniker": "UCSytems\\UC_Category.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Category.cs [Design]",
+              "RelativeToolTip": "UCSytems\\UC_Category.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:25:12.555Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UC_SuperiorPack.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_SuperiorPack.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_SuperiorPack.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_SuperiorPack.cs [Design]",
+              "RelativeToolTip": "UCFunction\\UC_SuperiorPack.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:55:49.74Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_UserManager.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_UserManager.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_UserManager.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_UserManager.cs [Design]",
+              "RelativeToolTip": "UCFunction\\UC_UserManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:29:56.126Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_ExtendPack.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_ExtendPack.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_ExtendPack.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_ExtendPack.cs",
+              "RelativeToolTip": "UCFunction\\UC_ExtendPack.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAApwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:07:35.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UC_ProfilePersonnelManager.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_ProfilePersonnelManager.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_ProfilePersonnelManager.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_ProfilePersonnelManager.cs [Design]",
+              "RelativeToolTip": "UCFunction\\UC_ProfilePersonnelManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:02:33.59Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UC_PersonnelManager.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_PersonnelManager.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_PersonnelManager.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_PersonnelManager.cs [Design]",
+              "RelativeToolTip": "UCFunction\\UC_PersonnelManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:58:06.525Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UC_OfficesManager.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_OfficesManager.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_OfficesManager.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_OfficesManager.cs [Design]",
+              "RelativeToolTip": "UCFunction\\UC_OfficesManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:02:32.428Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UC_OfficeManager.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_OfficeManager.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_OfficeManager.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_OfficeManager.cs [Design]",
+              "RelativeToolTip": "UCFunction\\UC_OfficeManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:55:52.882Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UC_AdvancedPack.Designer.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_AdvancedPack.Designer.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_AdvancedPack.Designer.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_AdvancedPack.Designer.cs",
+              "RelativeToolTip": "UCFunction\\UC_AdvancedPack.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:09:13.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UC_AdvancedPack.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_AdvancedPack.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_AdvancedPack.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_AdvancedPack.cs",
+              "RelativeToolTip": "UCFunction\\UC_AdvancedPack.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:06:57.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UC_Category.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Category.cs",
+              "RelativeDocumentMoniker": "UCSytems\\UC_Category.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Category.cs",
+              "RelativeToolTip": "UCSytems\\UC_Category.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:36:54.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UC_Home.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Home.cs",
+              "RelativeDocumentMoniker": "UCSytems\\UC_Home.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Home.cs [Design]",
+              "RelativeToolTip": "UCSytems\\UC_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:00:36.821Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UC_Personnel.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Personnel.cs",
+              "RelativeDocumentMoniker": "UCSytems\\UC_Personnel.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Personnel.cs [Design]",
+              "RelativeToolTip": "UCSytems\\UC_Personnel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:01:05.859Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UC_Category.Designer.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Category.Designer.cs",
+              "RelativeDocumentMoniker": "UCSytems\\UC_Category.Designer.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Category.Designer.cs",
+              "RelativeToolTip": "UCSytems\\UC_Category.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwHsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:55:25.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UC_SuperiorPack.Designer.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_SuperiorPack.Designer.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_SuperiorPack.Designer.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_SuperiorPack.Designer.cs",
+              "RelativeToolTip": "UCFunction\\UC_SuperiorPack.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAD4v1EAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:12:33.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UC_SuperiorPack.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_SuperiorPack.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_SuperiorPack.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_SuperiorPack.cs",
+              "RelativeToolTip": "UCFunction\\UC_SuperiorPack.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:12:05.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UC_ExtendPack.Designer.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_ExtendPack.Designer.cs",
+              "RelativeDocumentMoniker": "UCFunction\\UC_ExtendPack.Designer.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCFunction\\UC_ExtendPack.Designer.cs",
+              "RelativeToolTip": "UCFunction\\UC_ExtendPack.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:11:53.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UC_Report.Designer.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Report.Designer.cs",
+              "RelativeDocumentMoniker": "UCSytems\\UC_Report.Designer.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Report.Designer.cs",
+              "RelativeToolTip": "UCSytems\\UC_Report.Designer.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAD4v1oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:51:17.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UC_Personnel.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Personnel.cs",
+              "RelativeDocumentMoniker": "UCSytems\\UC_Personnel.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Personnel.cs",
+              "RelativeToolTip": "UCSytems\\UC_Personnel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:48:52.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UC_Personnel.Designer.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Personnel.Designer.cs",
+              "RelativeDocumentMoniker": "UCSytems\\UC_Personnel.Designer.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\UCSytems\\UC_Personnel.Designer.cs",
+              "RelativeToolTip": "UCSytems\\UC_Personnel.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAD4v14AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:49:20.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frm_RestoreDatabase.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_RestoreDatabase.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_RestoreDatabase.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_RestoreDatabase.cs [Design]",
+              "RelativeToolTip": "Forms\\frm_RestoreDatabase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:24:35.932Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frm_Setting.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Setting.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_Setting.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Setting.cs [Design]",
+              "RelativeToolTip": "Forms\\frm_Setting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:57:17.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frm_Main.Designer.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Main.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_Main.Designer.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Main.Designer.cs",
+              "RelativeToolTip": "Forms\\frm_Main.Designer.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAkwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:43:01.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frm_Main.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Main.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_Main.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Main.cs",
+              "RelativeToolTip": "Forms\\frm_Main.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAAAMYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:20:48.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frm_PrintInvoice.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_PrintInvoice.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_PrintInvoice.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_PrintInvoice.cs [Design]",
+              "RelativeToolTip": "Forms\\frm_PrintInvoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:24:31.826Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frm_Splash.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Splash.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_Splash.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Splash.cs [Design]",
+              "RelativeToolTip": "Forms\\frm_Splash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:48:36.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frm_UserPermission.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_UserPermission.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_UserPermission.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_UserPermission.cs [Design]",
+              "RelativeToolTip": "Forms\\frm_UserPermission.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:13:59.406Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frm_InvoiceDetails.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_InvoiceDetails.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_InvoiceDetails.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_InvoiceDetails.cs [Design]",
+              "RelativeToolTip": "Forms\\frm_InvoiceDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:13:47.837Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frm_ChangePassword.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_ChangePassword.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_ChangePassword.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_ChangePassword.cs [Design]",
+              "RelativeToolTip": "Forms\\frm_ChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:13:49.646Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frm_Connect.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Connect.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_Connect.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Connect.cs [Design]",
+              "RelativeToolTip": "Forms\\frm_Connect.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:13:52.594Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frm_About.cs [Design]",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_About.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_About.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_About.cs [Design]",
+              "RelativeToolTip": "Forms\\frm_About.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:57:26.874Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:48:30.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frm_Splash.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Splash.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_Splash.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Splash.cs",
+              "RelativeToolTip": "Forms\\frm_Splash.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:49:51.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frm_Login.cs",
+              "DocumentMoniker": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Login.cs",
+              "RelativeDocumentMoniker": "Forms\\frm_Login.cs",
+              "ToolTip": "F:\\STUDY\\NOSQL\\KFC_FASTFOOD\\Forms\\frm_Login.cs",
+              "RelativeToolTip": "Forms\\frm_Login.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAtwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:28:59.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
